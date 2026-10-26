@@ -1,2 +1,1 @@
-Primeiro exercicio em git
-Segundo exercício em git
+"Aqui vão ser colocados todos os meus projetos de PSI do 11.º ano."
